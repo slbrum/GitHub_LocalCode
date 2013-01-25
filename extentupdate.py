@@ -2,7 +2,6 @@
 # Update geographic extent for location inset maps for survey points database
 # Kevin Alexander, Karen Brandt
 # 3-21-2012
-# 9-23-2012 add comment line here to test github
 
 import arcpy
 
